@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @akhils0810
+- 👋 Hi, I’m V.Akhil Sathwik
+- 📚I'm currently pursuing my bachelor's degree from MLRITM
 - 👀 I’m interested in learning new things 
 - 🌱 I’m currently learning C, Python and DS
 
