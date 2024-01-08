@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C,DATA STRUCTURES AND PYTHON**
 
-- 📫 How to reach me **v.akhilsathwik08@gmail.com**
+- 📫 How to reach me **akhilperi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
